@@ -78,14 +78,6 @@ Start BeamMP normally and use your client-side mods.
 
 Compatibility may vary between BeamMP versions.
 
-## Building
-
-If you want to build the project yourself:
-
-1. Open the solution in Visual Studio.
-2. Build the launcher project.
-3. Patch or replace `BeamMP.zip` as described above.
-
 ## Video Tutorial
 
 YouTube Tutorial:
