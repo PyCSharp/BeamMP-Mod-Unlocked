@@ -358,7 +358,7 @@ void CheckForUpdates(const std::string& CV) {
             info("Downloading Launcher update " + LatestHash);
             std::wstring DownloadLocation = GetBP() / (beammp_wide("new_") + GetEN());
             if (true) {
-		info("Launcher update bypassed !") // this is one of the modifications that have been made to the launcher
+                info("Launcher update bypassed !"); // this is one of the modifications that have been made to the launcher
                 if (!VerifySignature(DownloadLocation) || !CheckThumbprint(DownloadLocation)) {
                     std::error_code ec;
                     fs::remove(DownloadLocation, ec);
