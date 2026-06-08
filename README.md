@@ -88,4 +88,4 @@ https://youtube.com/your-video-link
 
 This project is provided for educational and research purposes only.
 
-The authors are not affiliated with BeamMP or BeamNG GmbH. Use of modified multiplayer software may violate server rules, community guidelines, or future BeamMP policies.
+The author are not affiliated with BeamMP or BeamNG GmbH. Use of modified multiplayer software may violate server rules, community guidelines, or future BeamMP policies.
