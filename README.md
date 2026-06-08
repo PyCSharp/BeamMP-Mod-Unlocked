@@ -82,7 +82,7 @@ Compatibility may vary between BeamMP versions.
 
 YouTube Tutorial:
 
-https://youtube.com/your-video-link
+https://www.youtube.com/watch?v=zEApKf7OKGw
 
 ## Disclaimer
 
