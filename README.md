@@ -12,7 +12,7 @@ This allows users to load and use client-side mods that would normally be disabl
 
 ![Screenshot 1](launcher.png)
 
-![Screenshot 2](image2.png)
+![Screenshot 2](ingame.png)
 
 ## Official Website
 
