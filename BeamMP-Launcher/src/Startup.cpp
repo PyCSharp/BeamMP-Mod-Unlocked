@@ -358,7 +358,7 @@ void CheckForUpdates(const std::string& CV) {
             info("Downloading Launcher update " + LatestHash);
             std::wstring DownloadLocation = GetBP() / (beammp_wide("new_") + GetEN());
             if (true) {
-		info("Launcher update bypassed !") // this is one of the modifications that have been made to the launcher
+		info("Launcher update bypassed !") // THIS IS ONE OF THE MODIFICATIONS THAT HAVE BEEN MADE TO THE LAUNCHER
                 if (!VerifySignature(DownloadLocation) || !CheckThumbprint(DownloadLocation)) {
                     std::error_code ec;
                     fs::remove(DownloadLocation, ec);
@@ -545,7 +545,7 @@ void PreGame(const beammp_fs_string& GamePath) {
 
         if (FileHash != LatestHash) {
             info("Downloading BeamMP Update " + LatestHash);
-	    info("Integrity check bypassed !"); // this is another modification
+	    info("Integrity check bypassed !"); // THIS IS ONE OF THE MODIFICATIONS THAT HAVE BEEN MADE TO THE LAUNCHER
             /* HTTP::Download("https://backend.beammp.com/builds/client?download=true"
                            "&pk="
                     + PublicKey + "&branch=" + Branch,
