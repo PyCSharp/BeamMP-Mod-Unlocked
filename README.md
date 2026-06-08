@@ -10,9 +10,7 @@ This allows users to load and use client-side mods that would normally be disabl
 
 ## Screenshots
 
-_Add your screenshots here._
-
-![Screenshot 1](image1.png)
+![Screenshot 1](launcher.png)
 
 ![Screenshot 2](image2.png)
 
