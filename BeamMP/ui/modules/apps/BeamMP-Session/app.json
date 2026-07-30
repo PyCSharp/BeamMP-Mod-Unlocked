@@ -1,0 +1,17 @@
+{
+  "domElement": "<beammp-session></beammp-session>",
+  "name": "BeamMP Session",
+  "types": [
+    "ui.apps.categories.beammp"
+  ],
+  "css": {
+  	"left": "50%",
+  	"top": "0px",
+  	"width": "700px",
+    "height": "40px"
+  },
+  "description": "Manage your BeamMP session, including server information, player count, and more.",
+  "author": "BeamMP",
+  "version": "1.1",
+  "directive": "beammpSession"
+}
